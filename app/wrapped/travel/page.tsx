@@ -15,12 +15,12 @@ const travelMemories: TravelMemory[] = [
   {
     place: "First Trip of 2025",
     caption: "First trip to Saigon in 2025",
-    image: "/images/travel-saigon-2025.jpg",
+    image: "/images/travel-saigon-2025.JPG",
   },
   {
     place: "Ga Ba Son",
     caption: "First time book a photographer",
-    image: "/images/travel-ga-ba-son.jpg",
+    image: "/images/travel-ga-ba-son.JPG",
   },
   {
     place: "600 days together",
@@ -30,7 +30,7 @@ const travelMemories: TravelMemory[] = [
   {
     place: "Boston",
     caption: "Pick up Manku, chơi vui quá trời!!! hehehee",
-    image: "/images/travel-boston.jpg",
+    image: "/images/travel-boston.JPG",
   },
   {
     place: "NYC",

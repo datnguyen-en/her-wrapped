@@ -117,13 +117,13 @@ export default function BirthdayPage() {
 }
 
 // Circular bubble frame that shows your image (top large photo).
-// Put your top image file at: /public/images/birthday-top.jpg
+// Put your top image file at: /public/images/birthday-top.JPG
 function BirthdayPhotoBubble() {
   return (
     <div className="relative w-40 h-40 md:w-48 md:h-48 mx-auto">
       <div className="w-full h-full rounded-full bg-white shadow-xl border-4 border-[#FFD1DC] overflow-hidden flex items-center justify-center">
         <img
-          src="/images/birthday-top.jpg"
+          src="/images/birthday-top.JPG"
           alt="Your favorite picture together"
           className="w-full h-full object-cover"
           onError={(e) => {
